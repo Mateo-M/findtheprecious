@@ -13,11 +13,6 @@
     src: url(../fonts/tngan.ttf) format("truetype");
 }
 
-body {
-    overflow: hidden;
-    max-width: 100%;
-}
-
 .img-carousel {
     width: 1600px;
     height: 700px;
