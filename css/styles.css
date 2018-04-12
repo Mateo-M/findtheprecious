@@ -17,6 +17,11 @@ body {
     background-image: url(images/bg_light.png) repeat;
 }
 
+.img-carousel {
+    width: 1600px;
+    height: 700px;
+}
+
 a, p, h1, h2, h3, h4, h5 {
     font-family: Party;
 }
