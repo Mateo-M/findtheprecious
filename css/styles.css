@@ -15,6 +15,7 @@
 
 body {
     overflow: hidden;
+    max-width: 100%;
     background-image: url(images/bg_light.png) repeat;
 }
 
